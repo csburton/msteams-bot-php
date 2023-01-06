@@ -3,7 +3,7 @@ A simple php library for creating bots for Microsoft Teams
 
 ## Requirements
 
-- `PHP 7.4`
+- `PHP >=7.4`
 - Package uses `Guzzle Client` for API requests 
 
 ## Getting started
